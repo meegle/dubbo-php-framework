@@ -1,4 +1,5 @@
 {
+    "name": "dubbo/dubbo-php-framework",
     "require": {
         "apache/log4php": "^2.3"
     }
